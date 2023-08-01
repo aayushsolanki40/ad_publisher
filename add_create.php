@@ -114,7 +114,7 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="sticky-footer-navbar.css" rel="stylesheet">
+    <link href="sticky-footer-navbar.css" rel="stylesheet"></link>
   </head>
   <body class="d-flex flex-column h-100">
     
